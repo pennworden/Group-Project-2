@@ -1,5 +1,4 @@
-# Group-Project-2
-MIST 4610
+MIST4610Project2
 Team Name
 39217 Group 3
 
@@ -50,3 +49,22 @@ Visualization #4 (Types of Hate Crime Biases and Offense Types on Highways/Roads
 Filter on Most Serious Location: Data was sorted to only include records from the “Highway/Road/Alley/Street” category, because the focus analysis here is based on the overwhelming number of incidents at this location, as seen in Visualization #3.
 Tableau Packaged Workbook
 The packaged workbook containing the visualization for this project is attached to this repository.
+
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Footer
+
